@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SenatorDingo
 - 🌱 I’m currently learning 
--     Luthen Rael Fanclub
+-     Luthen Rael Fan Club
