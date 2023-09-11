@@ -5,6 +5,9 @@
 <br>
 <br>
 
+<p align="center">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SenatorDingo">
+</p>
 
 <h3 align="center">Languages and Tools I use</h3>
 <p align="center"> 
@@ -26,4 +29,6 @@
 
 
 
+<p align="center">
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SenatorDingo&langs_count=7">
+</p>
