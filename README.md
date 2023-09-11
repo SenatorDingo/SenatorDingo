@@ -26,4 +26,4 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenatorDingo&langs_count=7">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SenatorDingo&langs_count=7">
