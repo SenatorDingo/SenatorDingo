@@ -5,6 +5,22 @@
 <br>
 <br>
 
+<h3> Some of my cool projects are</h3>
+<ul>
+  <li>
+    <a href="https://github.com/SEG2105-uottawa/ProjectGroupCapn">Tutron App </a> <br>
+    <p>
+      An Android app to connect students and tutors built for a group project at the University of Ottawa.
+      Built in Java using OOP principles and Android Studio. Uses Firebase real time database as the backend
+      database. Utilized unit tests and CI/CD platform CircleCI to maintain cohesion between team members
+    </p>
+  </li>
+</ul>
+
+<br>
+<br>
+<br>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SenatorDingo">
 </p>
