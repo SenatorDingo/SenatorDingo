@@ -46,5 +46,5 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SenatorDingo&langs_count=5">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SenatorDingo&langs_count=6">
 </p>
