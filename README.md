@@ -1,7 +1,18 @@
 <h1 align="center">Hi, I'm Abhay</h1>
 <h3 align="center">I'm currently a second year student at the University of Ottawa</h3>
 
-- 🔭 I’m currently working on [TaskAssist](https://github.com/SenatorDingo/TaskAssist)
+<br>
+<br>
+
+<h3>I’m currently working on </h3>
+<ul>
+  <li>
+    <a href= "https://github.com/SenatorDingo/TaskAssist"> TaskAssist </a>
+  </li>
+  <li>
+    <a href= "https://github.com/SenatorDingo/senatordingo.github.io"> My Personal Website </a>
+  </li>
+</ul>
 <br>
 <br>
 
