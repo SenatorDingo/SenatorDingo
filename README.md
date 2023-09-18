@@ -7,10 +7,10 @@
 <h3>I’m currently working on </h3>
 <ul>
   <li>
-    <a href= "https://github.com/SenatorDingo/TaskAssist"> TaskAssist </a>
+     🔭 <a href= "https://github.com/SenatorDingo/TaskAssist"> TaskAssist </a>
   </li>
   <li>
-    <a href= "https://github.com/SenatorDingo/senatordingo.github.io"> My Personal Website </a>
+    🔭 <a href= "https://github.com/SenatorDingo/senatordingo.github.io"> My Personal Website </a>
   </li>
 </ul>
 <br>
