@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhay</h1>
-<h3 align="center">I'm currently a second year student at the University of Ottawa</h3>
+<h3 align="center">I'm currently a third year student at the University of Ottawa</h3>
 
 <br>
 <br>
