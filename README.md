@@ -26,6 +26,14 @@
       database. Utilized unit tests and CI/CD platform CircleCI to maintain cohesion between team members
     </p>
   </li>
+    <li>
+    <a href="https://github.com/senatordingo/HMS-PMS-Server-Client">Hospital Management System - Patient Management Subsystem Server Client</a> <br>
+    <p>
+A SpringBoot-Kotlin Server and a Thymeleaf Client for Patient Management. Incorporates Spring Security and follows
+good principles of Software Design, Architecture and Engineering. Conducted domain analysis and division of systems.
+Ships in a docker container.
+    </p>
+  </li>
 </ul>
 
 <br>
