@@ -7,7 +7,7 @@
 <h3>I’m currently working on </h3>
 <ul>
   <li>
-     🔭 <a href= "https://github.com/SenatorDingo/TaskAssist"> TaskAssist </a>
+     🔭 <a href= ""> Regulatory Compliance Ops (currently private) </a>
   </li>
   <li>
     🔭 <a href= "https://github.com/SenatorDingo/senatordingo.github.io"> My Personal Website </a>
@@ -18,6 +18,21 @@
 
 <h3> Some of my cool projects are</h3>
 <ul>
+  <li> 
+    <a href="https://github.com/SenatorDingo/csi2132-CourseProject">CSI2132 Course Project — e-Hotels</a><br> 
+    <p> A full Java web application for hotel room search and booking, with separate customer and employee flows including check-in/check-out and booking management. Built using JSP/Servlet architecture with a PostgreSQL backend, DAO pattern, and Maven WAR packaging. The project includes Docker Compose setup and release documentation for reproducible local deployment. </p> 
+  </li> 
+  <li> <a href="https://github.com/SenatorDingo/CSI4106_AI_Model_Alien_Pet">Alien Pet Classification Pipeline</a><br> 
+    <p> An end-to-end AI project split into three clear phases: data preparation, classical machine learning, and deep learning. The repository focuses on clean methodology, experiment structure, and model evaluation across notebook-based workflows. Great example of a staged ML pipeline from raw data to final model comparison. </p> 
+  </li> 
+  <li> <a href="https://github.com/SenatorDingo/CSI4106_Heuristic_Search">Heuristic Search Experiments (TSP)</a><br> 
+    <p> A Traveling Salesman Problem optimization project comparing multiple heuristic strategies, including greedy search, simulated annealing, and genetic algorithms. Implemented in Jupyter Notebook with comparative experiments on benchmark-style instances. Highlights practical tradeoffs between solution quality and search behavior. </p> 
+  </li> 
+  <li> <a href="https://github.com/SenatorDingo/NAQTcsv2QBJMatch">NAQT CSV to QBJ Converter</a><br> 
+    <p> An open source Python tool that converts NAQT scoresheet CSV files into QBJ output for easier YellowFruit import workflows. Includes a command-line converter and a lightweight GUI script for easier use. Designed as a utility-style automation project focused on reducing manual tournament data entry. Made for SCT 2026 </p> 
+  </li> 
+  <li> <a href="https://github.com/SenatorDingo/SEG3125-BookHaven">BookHaven</a><br> <p> A React web app for book discovery and community interaction, with dedicated routes for explore, reviews, discussions, profile, advanced search, FAQ, and book details. Built with React Router plus Bootstrap and React-Bootstrap for UI structure and responsive components. Demonstrates multi-page frontend architecture and user-focused content navigation. </p> 
+  </li>
   <li>
     <a href="https://github.com/SEG2105-uottawa/ProjectGroupCapn">Tutron App </a> <br>
     <p>
