@@ -18,6 +18,10 @@
 
 <h3> Some of my cool projects are</h3>
 <ul>
+    <li> 
+    <a href="https://github.com/SenatorDingo/csi2132-CourseProject">CSI2132 Course Project — e-Hotels</a><br> 
+    <p> A full Java web application for hotel room search and booking, with separate customer and employee flows including check-in/check-out and booking management. Built using JSP/Servlet architecture with a PostgreSQL backend, DAO pattern, and Maven WAR packaging. The project includes Docker Compose setup and release documentation for reproducible local deployment. </p> 
+  </li> 
   <li>
     <a href="https://github.com/senatordingo/HMS-PMS-Server-Client">Hospital Management System - Patient Management Subsystem Server Client</a> <br>
     <p>
@@ -28,10 +32,6 @@ Ships in a docker container.
   </li>
     <li> <a href="https://github.com/SenatorDingo/NAQTcsv2QBJMatch">NAQT CSV to QBJ Converter</a><br> 
     <p> An open source Python tool that converts NAQT scoresheet CSV files into QBJ output for easier YellowFruit import workflows. Includes a command-line converter and a lightweight GUI script for easier use. Designed as a utility-style automation project focused on reducing manual tournament data entry. Made for SCT 2026 </p> 
-  </li> 
-  <li> 
-    <a href="https://github.com/SenatorDingo/csi2132-CourseProject">CSI2132 Course Project — e-Hotels</a><br> 
-    <p> A full Java web application for hotel room search and booking, with separate customer and employee flows including check-in/check-out and booking management. Built using JSP/Servlet architecture with a PostgreSQL backend, DAO pattern, and Maven WAR packaging. The project includes Docker Compose setup and release documentation for reproducible local deployment. </p> 
   </li> 
   <li> <a href="https://github.com/SenatorDingo/CSI4106_AI_Model_Alien_Pet">Alien Pet Classification Pipeline</a><br> 
     <p> An end-to-end AI project split into three clear phases: data preparation, classical machine learning, and deep learning. The repository focuses on clean methodology, experiment structure, and model evaluation across notebook-based workflows. Great example of a staged ML pipeline from raw data to final model comparison. </p> 
